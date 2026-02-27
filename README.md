@@ -1,4 +1,4 @@
-# Network-Reconstruction-via-the-minimum-description-length-principle
+# Network Reconstruction via the minimum description length principle
 This repository contains the work I developed for my Bachelor's thesis, based on Tiago Peixoto’s article Network Reconstruction via the MDL Principle.
 
 The project explores two different approaches to network reconstruction:
