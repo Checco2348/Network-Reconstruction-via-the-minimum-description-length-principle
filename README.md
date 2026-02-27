@@ -7,7 +7,7 @@ L1_reconstruction.ipynb: file dedicated to network reconstruction using L1 regul
 
 MDL_UTILITY.ipynb: a custom library containing the functions I developed for MDL-based reconstruction.
 
-MDL_reconstruction.ipynb: the file where NOME2 is used to test and run the MDL reconstruction procedure.
+MDL_reconstruction.ipynb: the file where MDL_UTILITY is used to test and run the MDL reconstruction procedure.
 
 The purpose of this repository is to collect the code written during my thesis work and to provide an implementation of both the L1-based and MDL-based approaches.
 
